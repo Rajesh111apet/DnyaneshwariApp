@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/drawable/buttons.xml" value="0.152" />
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/layout/activity_aakra.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/layout/activity_aath.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/layout/activity_aathra.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/layout/activity_bara.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/layout/activity_chaar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/layout/activity_chauda.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/layout/activity_daha.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/layout/activity_don.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/layout/activity_ek.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/layout/activity_nau.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/layout/activity_paach.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/layout/activity_pandhra.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/layout/activity_saat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/layout/activity_saha.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/layout/activity_satara.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/layout/activity_sohla.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/layout/activity_teen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/layout/activity_tera.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.152" />
+        <entry key="..\:/Users/Rajesh H. Apet/AndroidStudioProjects/ShreeDnyaneshwari/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.152" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

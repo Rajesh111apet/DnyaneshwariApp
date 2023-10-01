@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Text Size 20 sp"
+        android:id="@+id/text1"></item>
+    <item
+        android:title="Text Size 30 sp"
+        android:id="@+id/text2"></item>
+
+    <item
+        android:title="Text Size 40 sp"
+        android:id="@+id/text3"></item>
+
+
+
+</menu>

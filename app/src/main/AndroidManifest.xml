@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.shreednyaneshwari.shreednyaneshwari">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/mauli_maharaj_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity android:name=".Aathra" />
+        <activity android:name=".Satara" />
+        <activity android:name=".Sohla" />
+        <activity android:name=".Pandhra" />
+        <activity android:name=".Chauda" />
+        <activity android:name=".Tera" />
+        <activity android:name=".Bara" />
+        <activity android:name=".Aakra" />
+        <activity android:name=".Daha" />
+        <activity android:name=".Nau" />
+        <activity android:name=".Aath" />
+        <activity android:name=".Saat" />
+        <activity android:name=".Saha" />
+        <activity android:name=".Paach" />
+        <activity android:name=".Chaar" />
+        <activity android:name=".Teen" />
+        <activity android:name=".Don" />
+        <activity android:name=".Ek" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3877980992289459~3938269108" />
+    </application>
+
+</manifest>
